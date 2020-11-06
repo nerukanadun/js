@@ -1,3 +1,3 @@
-//node index.js <- terminal run
+//node index.js <- terminal run.
 
-console.log('Hello');
+console.log('Hello') ;
